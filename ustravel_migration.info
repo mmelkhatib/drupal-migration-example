@@ -1,0 +1,11 @@
+name = "US Travel Econ Impact migration"
+description = "Import Econ Impact Files from Legacy"
+package = US Travel
+core = 7.x
+
+dependencies[] = migrate
+;dependencies[] = migrate_d2d
+;dependencies[] = migrate_d2d_ui
+
+files[] = ustravel_migration.module
+files[] = includes/ustravel_migration.economicFiles.inc

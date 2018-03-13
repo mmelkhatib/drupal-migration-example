@@ -1,0 +1,19 @@
+<?php
+
+function ustravel_migration_migrate_api() {
+  $api = array(
+    'api' => 2,
+    'groups' => array(
+      'ustravel' => array(
+        'title' => t('US Travel Custom Migration'),
+      ),
+      'economic_impact' => array(
+        'title' => t('Economic Impact File Updates'),
+      ),
+    ),
+    'migrations' => array(
+      'USTravel_Economic_Files' => array('class_name' => 'USTravelEconomicFilesMigration', 'group_name' => 'economic_impact'),
+    )
+  );
+  return $api;
+}

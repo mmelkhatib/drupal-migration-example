@@ -1,0 +1,488 @@
+fid,filename,title,media_folder
+14000,Travel_Impact_AK-0.pdf,"Alaska, AK-1, Economic Impact Map",current
+14001,Travel_Impact_AK.pdf,"Alaska, AK, Economic Impact Map",current
+14002,Travel_Impact_AL-1.pdf,"Alabama, AL-1, Economic Impact Map",current
+14003,Travel_Impact_AL-2.pdf,"Alabama, AL-2, Economic Impact Map",current
+14004,Travel_Impact_AL-3.pdf,"Alabama, AL-3, Economic Impact Map",current
+14005,Travel_Impact_AL-4.pdf,"Alabama, AL-4, Economic Impact Map",current
+14006,Travel_Impact_AL-5.pdf,"Alabama, AL-5, Economic Impact Map",current
+14007,Travel_Impact_AL-6.pdf,"Alabama, AL-6, Economic Impact Map",current
+14008,Travel_Impact_AL-7.pdf,"Alabama, AL-7, Economic Impact Map",current
+14009,Travel_Impact_AL.pdf,"Alabama, AL, Economic Impact Map",current
+14010,Travel_Impact_AR-1.pdf,"Arkansas, AR-1, Economic Impact Map",current
+14011,Travel_Impact_AR-2.pdf,"Arkansas, AR-2, Economic Impact Map",current
+14012,Travel_Impact_AR-3.pdf,"Arkansas, AR-3, Economic Impact Map",current
+14013,Travel_Impact_AR-4.pdf,"Arkansas, AR-4, Economic Impact Map",current
+14014,Travel_Impact_AR.pdf,"Arkansas, AR, Economic Impact Map",current
+14015,Travel_Impact_AZ-1.pdf,"Arizona, AZ-1, Economic Impact Map",current
+14016,Travel_Impact_AZ-2.pdf,"Arizona, AZ-2, Economic Impact Map",current
+14017,Travel_Impact_AZ-3.pdf,"Arizona, AZ-3, Economic Impact Map",current
+14018,Travel_Impact_AZ-4.pdf,"Arizona, AZ-4, Economic Impact Map",current
+14019,Travel_Impact_AZ-5.pdf,"Arizona, AZ-5, Economic Impact Map",current
+14020,Travel_Impact_AZ-6.pdf,"Arizona, AZ-6, Economic Impact Map",current
+14021,Travel_Impact_AZ-7.pdf,"Arizona, AZ-7, Economic Impact Map",current
+14022,Travel_Impact_AZ-8.pdf,"Arizona, AZ-8, Economic Impact Map",current
+14023,Travel_Impact_AZ-9.pdf,"Arizona, AZ-9, Economic Impact Map",current
+14024,Travel_Impact_AZ.pdf,"Arizona, AZ, Economic Impact Map",current
+14025,Travel_Impact_CA-1.pdf,"California, CA-1, Economic Impact Map",current
+14026,Travel_Impact_CA-2.pdf,"California, CA-2, Economic Impact Map",current
+14027,Travel_Impact_CA-3.pdf,"California, CA-3, Economic Impact Map",current
+14028,Travel_Impact_CA-4.pdf,"California, CA-4, Economic Impact Map",current
+14029,Travel_Impact_CA-5.pdf,"California, CA-5, Economic Impact Map",current
+14030,Travel_Impact_CA-6.pdf,"California, CA-6, Economic Impact Map",current
+14031,Travel_Impact_CA-7.pdf,"California, CA-7, Economic Impact Map",current
+14032,Travel_Impact_CA-8.pdf,"California, CA-8, Economic Impact Map",current
+14033,Travel_Impact_CA-9.pdf,"California, CA-9, Economic Impact Map",current
+14034,Travel_Impact_CA-10.pdf,"California, CA-10, Economic Impact Map",current
+14035,Travel_Impact_CA-11.pdf,"California, CA-11, Economic Impact Map",current
+14036,Travel_Impact_CA-12.pdf,"California, CA-12, Economic Impact Map",current
+14037,Travel_Impact_CA-13.pdf,"California, CA-13, Economic Impact Map",current
+14038,Travel_Impact_CA-14.pdf,"California, CA-14, Economic Impact Map",current
+14039,Travel_Impact_CA-15.pdf,"California, CA-15, Economic Impact Map",current
+14040,Travel_Impact_CA-16.pdf,"California, CA-16, Economic Impact Map",current
+14041,Travel_Impact_CA-17.pdf,"California, CA-17, Economic Impact Map",current
+14042,Travel_Impact_CA-18.pdf,"California, CA-18, Economic Impact Map",current
+14043,Travel_Impact_CA-19.pdf,"California, CA-19, Economic Impact Map",current
+14044,Travel_Impact_CA-20.pdf,"California, CA-20, Economic Impact Map",current
+14045,Travel_Impact_CA-21.pdf,"California, CA-21, Economic Impact Map",current
+14046,Travel_Impact_CA-22.pdf,"California, CA-22, Economic Impact Map",current
+14047,Travel_Impact_CA-23.pdf,"California, CA-23, Economic Impact Map",current
+14048,Travel_Impact_CA-24.pdf,"California, CA-24, Economic Impact Map",current
+14049,Travel_Impact_CA-25.pdf,"California, CA-25, Economic Impact Map",current
+14050,Travel_Impact_CA-26.pdf,"California, CA-26, Economic Impact Map",current
+14051,Travel_Impact_CA-27.pdf,"California, CA-27, Economic Impact Map",current
+14052,Travel_Impact_CA-28.pdf,"California, CA-28, Economic Impact Map",current
+14053,Travel_Impact_CA-29.pdf,"California, CA-29, Economic Impact Map",current
+14054,Travel_Impact_CA-30.pdf,"California, CA-30, Economic Impact Map",current
+14055,Travel_Impact_CA-31.pdf,"California, CA-31, Economic Impact Map",current
+14056,Travel_Impact_CA-32.pdf,"California, CA-32, Economic Impact Map",current
+14057,Travel_Impact_CA-33.pdf,"California, CA-33, Economic Impact Map",current
+14058,Travel_Impact_CA-34.pdf,"California, CA-34, Economic Impact Map",current
+14059,Travel_Impact_CA-35.pdf,"California, CA-35, Economic Impact Map",current
+14060,Travel_Impact_CA-36.pdf,"California, CA-36, Economic Impact Map",current
+14061,Travel_Impact_CA-37.pdf,"California, CA-37, Economic Impact Map",current
+14062,Travel_Impact_CA-38.pdf,"California, CA-38, Economic Impact Map",current
+14063,Travel_Impact_CA-39.pdf,"California, CA-39, Economic Impact Map",current
+14064,Travel_Impact_CA-40.pdf,"California, CA-40, Economic Impact Map",current
+14065,Travel_Impact_CA-41.pdf,"California, CA-41, Economic Impact Map",current
+14066,Travel_Impact_CA-42.pdf,"California, CA-42, Economic Impact Map",current
+14067,Travel_Impact_CA-43.pdf,"California, CA-43, Economic Impact Map",current
+14068,Travel_Impact_CA-44.pdf,"California, CA-44, Economic Impact Map",current
+14069,Travel_Impact_CA-45.pdf,"California, CA-45, Economic Impact Map",current
+14070,Travel_Impact_CA-46.pdf,"California, CA-46, Economic Impact Map",current
+14071,Travel_Impact_CA-47.pdf,"California, CA-47, Economic Impact Map",current
+14072,Travel_Impact_CA-48.pdf,"California, CA-48, Economic Impact Map",current
+14073,Travel_Impact_CA-49.pdf,"California, CA-49, Economic Impact Map",current
+14074,Travel_Impact_CA-50.pdf,"California, CA-50, Economic Impact Map",current
+14075,Travel_Impact_CA-51.pdf,"California, CA-51, Economic Impact Map",current
+14076,Travel_Impact_CA-52.pdf,"California, CA-52, Economic Impact Map",current
+14077,Travel_Impact_CA-53.pdf,"California, CA-53, Economic Impact Map",current
+14078,Travel_Impact_CA.pdf,"California, CA, Economic Impact Map",current
+14079,Travel_Impact_CO-1.pdf,"Colorado, CO-1, Economic Impact Map",current
+14080,Travel_Impact_CO-2.pdf,"Colorado, CO-2, Economic Impact Map",current
+14081,Travel_Impact_CO-3.pdf,"Colorado, CO-3, Economic Impact Map",current
+14082,Travel_Impact_CO-4.pdf,"Colorado, CO-4, Economic Impact Map",current
+14083,Travel_Impact_CO-5.pdf,"Colorado, CO-5, Economic Impact Map",current
+14084,Travel_Impact_CO-6.pdf,"Colorado, CO-6, Economic Impact Map",current
+14085,Travel_Impact_CO-7.pdf,"Colorado, CO-7, Economic Impact Map",current
+14086,Travel_Impact_CO.pdf,"Colorado, CO, Economic Impact Map",current
+14087,Travel_Impact_CT-1.pdf,"Connecticut, CT-1, Economic Impact Map",current
+14088,Travel_Impact_CT-2.pdf,"Connecticut, CT-2, Economic Impact Map",current
+14089,Travel_Impact_CT-3.pdf,"Connecticut, CT-3, Economic Impact Map",current
+14090,Travel_Impact_CT-4.pdf,"Connecticut, CT-4, Economic Impact Map",current
+14091,Travel_Impact_CT-5.pdf,"Connecticut, CT-5, Economic Impact Map",current
+14092,Travel_Impact_CT.pdf,"Connecticut, CT, Economic Impact Map",current
+14093,Travel_Impact_DC.pdf,"District of Columbia, DC, Economic Impact Map",current
+14094,Travel_Impact_DE-0.pdf,"Delaware, DE-1, Economic Impact Map",current
+14095,Travel_Impact_DE.pdf,"Delaware, DE, Economic Impact Map",current
+14096,Travel_Impact_FL-1.pdf,"Florida, FL-1, Economic Impact Map",current
+14097,Travel_Impact_FL-2.pdf,"Florida, FL-2, Economic Impact Map",current
+14098,Travel_Impact_FL-3.pdf,"Florida, FL-3, Economic Impact Map",current
+14099,Travel_Impact_FL-4.pdf,"Florida, FL-4, Economic Impact Map",current
+14100,Travel_Impact_FL-5.pdf,"Florida, FL-5, Economic Impact Map",current
+14101,Travel_Impact_FL-6.pdf,"Florida, FL-6, Economic Impact Map",current
+14102,Travel_Impact_FL-7.pdf,"Florida, FL-7, Economic Impact Map",current
+14103,Travel_Impact_FL-8.pdf,"Florida, FL-8, Economic Impact Map",current
+14104,Travel_Impact_FL-9.pdf,"Florida, FL-9, Economic Impact Map",current
+14105,Travel_Impact_FL-10.pdf,"Florida, FL-10, Economic Impact Map",current
+14106,Travel_Impact_FL-11.pdf,"Florida, FL-11, Economic Impact Map",current
+14107,Travel_Impact_FL-12.pdf,"Florida, FL-12, Economic Impact Map",current
+14108,Travel_Impact_FL-13.pdf,"Florida, FL-13, Economic Impact Map",current
+14109,Travel_Impact_FL-14.pdf,"Florida, FL-14, Economic Impact Map",current
+14110,Travel_Impact_FL-15.pdf,"Florida, FL-15, Economic Impact Map",current
+14111,Travel_Impact_FL-16.pdf,"Florida, FL-16, Economic Impact Map",current
+14112,Travel_Impact_FL-17.pdf,"Florida, FL-17, Economic Impact Map",current
+14113,Travel_Impact_FL-18.pdf,"Florida, FL-18, Economic Impact Map",current
+14114,Travel_Impact_FL-19.pdf,"Florida, FL-19, Economic Impact Map",current
+14115,Travel_Impact_FL-20.pdf,"Florida, FL-20, Economic Impact Map",current
+14116,Travel_Impact_FL-21.pdf,"Florida, FL-21, Economic Impact Map",current
+14117,Travel_Impact_FL-22.pdf,"Florida, FL-22, Economic Impact Map",current
+14118,Travel_Impact_FL-23.pdf,"Florida, FL-23, Economic Impact Map",current
+14119,Travel_Impact_FL-24.pdf,"Florida, FL-24, Economic Impact Map",current
+14120,Travel_Impact_FL-25.pdf,"Florida, FL-25, Economic Impact Map",current
+14121,Travel_Impact_FL-26.pdf,"Florida, FL-26, Economic Impact Map",current
+14122,Travel_Impact_FL-27.pdf,"Florida, FL-27, Economic Impact Map",current
+14123,Travel_Impact_FL.pdf,"Florida, FL, Economic Impact Map",current
+14124,Travel_Impact_GA-1.pdf,"Georgia, GA-1, Economic Impact Map",current
+14125,Travel_Impact_GA-2.pdf,"Georgia, GA-2, Economic Impact Map",current
+14126,Travel_Impact_GA-3.pdf,"Georgia, GA-3, Economic Impact Map",current
+14127,Travel_Impact_GA-4.pdf,"Georgia, GA-4, Economic Impact Map",current
+14128,Travel_Impact_GA-5.pdf,"Georgia, GA-5, Economic Impact Map",current
+14129,Travel_Impact_GA-6.pdf,"Georgia, GA-6, Economic Impact Map",current
+14130,Travel_Impact_GA-7.pdf,"Georgia, GA-7, Economic Impact Map",current
+14131,Travel_Impact_GA-8.pdf,"Georgia, GA-8, Economic Impact Map",current
+14132,Travel_Impact_GA-9.pdf,"Georgia, GA-9, Economic Impact Map",current
+14133,Travel_Impact_GA-10.pdf,"Georgia, GA-10, Economic Impact Map",current
+14134,Travel_Impact_GA-11.pdf,"Georgia, GA-11, Economic Impact Map",current
+14135,Travel_Impact_GA-12.pdf,"Georgia, GA-12, Economic Impact Map",current
+14136,Travel_Impact_GA-13.pdf,"Georgia, GA-13, Economic Impact Map",current
+14137,Travel_Impact_GA-14.pdf,"Georgia, GA-14, Economic Impact Map",current
+14138,Travel_Impact_GA.pdf,"Georgia, GA, Economic Impact Map",current
+14139,Travel_Impact_HI-1.pdf,"Hawaii, HI-1, Economic Impact Map",current
+14140,Travel_Impact_HI-2.pdf,"Hawaii, HI-2, Economic Impact Map",current
+14141,Travel_Impact_HI.pdf,"Hawaii, HI, Economic Impact Map",current
+14142,Travel_Impact_IA-1.pdf,"Iowa, IA-1, Economic Impact Map",current
+14143,Travel_Impact_IA-2.pdf,"Iowa, IA-2, Economic Impact Map",current
+14144,Travel_Impact_IA-3.pdf,"Iowa, IA-3, Economic Impact Map",current
+14145,Travel_Impact_IA-4.pdf,"Iowa, IA-4, Economic Impact Map",current
+14146,Travel_Impact_IA.pdf,"Iowa, IA, Economic Impact Map",current
+14147,Travel_Impact_ID-1.pdf,"Idaho, ID-1, Economic Impact Map",current
+14148,Travel_Impact_ID-2.pdf,"Idaho, ID-2, Economic Impact Map",current
+14149,Travel_Impact_ID.pdf,"Idaho, ID, Economic Impact Map",current
+14150,Travel_Impact_IL-1.pdf,"Illinois, IL-1, Economic Impact Map",current
+14151,Travel_Impact_IL-2.pdf,"Illinois, IL-2, Economic Impact Map",current
+14152,Travel_Impact_IL-3.pdf,"Illinois, IL-3, Economic Impact Map",current
+14153,Travel_Impact_IL-4.pdf,"Illinois, IL-4, Economic Impact Map",current
+14154,Travel_Impact_IL-5.pdf,"Illinois, IL-5, Economic Impact Map",current
+14155,Travel_Impact_IL-6.pdf,"Illinois, IL-6, Economic Impact Map",current
+14156,Travel_Impact_IL-7.pdf,"Illinois, IL-7, Economic Impact Map",current
+14157,Travel_Impact_IL-8.pdf,"Illinois, IL-8, Economic Impact Map",current
+14158,Travel_Impact_IL-9.pdf,"Illinois, IL-9, Economic Impact Map",current
+14159,Travel_Impact_IL-10.pdf,"Illinois, IL-10, Economic Impact Map",current
+14160,Travel_Impact_IL-11.pdf,"Illinois, IL-11, Economic Impact Map",current
+14161,Travel_Impact_IL-12.pdf,"Illinois, IL-12, Economic Impact Map",current
+14162,Travel_Impact_IL-13.pdf,"Illinois, IL-13, Economic Impact Map",current
+14163,Travel_Impact_IL-14.pdf,"Illinois, IL-14, Economic Impact Map",current
+14164,Travel_Impact_IL-15.pdf,"Illinois, IL-15, Economic Impact Map",current
+14165,Travel_Impact_IL-16.pdf,"Illinois, IL-16, Economic Impact Map",current
+14166,Travel_Impact_IL-17.pdf,"Illinois, IL-17, Economic Impact Map",current
+14167,Travel_Impact_IL-18.pdf,"Illinois, IL-18, Economic Impact Map",current
+14168,Travel_Impact_IL.pdf,"Illinois, IL, Economic Impact Map",current
+14169,Travel_Impact_IN-1.pdf,"Indiana, IN-1, Economic Impact Map",current
+14170,Travel_Impact_IN-2.pdf,"Indiana, IN-2, Economic Impact Map",current
+14171,Travel_Impact_IN-3.pdf,"Indiana, IN-3, Economic Impact Map",current
+14172,Travel_Impact_IN-4.pdf,"Indiana, IN-4, Economic Impact Map",current
+14173,Travel_Impact_IN-5.pdf,"Indiana, IN-5, Economic Impact Map",current
+14174,Travel_Impact_IN-6.pdf,"Indiana, IN-6, Economic Impact Map",current
+14175,Travel_Impact_IN-7.pdf,"Indiana, IN-7, Economic Impact Map",current
+14176,Travel_Impact_IN-8.pdf,"Indiana, IN-8, Economic Impact Map",current
+14177,Travel_Impact_IN-9.pdf,"Indiana, IN-9, Economic Impact Map",current
+14178,Travel_Impact_IN.pdf,"Indiana, IN, Economic Impact Map",current
+14179,Travel_Impact_KS-1.pdf,"Kansas, KS-1, Economic Impact Map",current
+14180,Travel_Impact_KS-2.pdf,"Kansas, KS-2, Economic Impact Map",current
+14181,Travel_Impact_KS-3.pdf,"Kansas, KS-3, Economic Impact Map",current
+14182,Travel_Impact_KS-4.pdf,"Kansas, KS-4, Economic Impact Map",current
+14183,Travel_Impact_KS.pdf,"Kansas, KS, Economic Impact Map",current
+14184,Travel_Impact_KY-1.pdf,"Kentucky, KY-1, Economic Impact Map",current
+14185,Travel_Impact_KY-2.pdf,"Kentucky, KY-2, Economic Impact Map",current
+14186,Travel_Impact_KY-3.pdf,"Kentucky, KY-3, Economic Impact Map",current
+14187,Travel_Impact_KY-4.pdf,"Kentucky, KY-4, Economic Impact Map",current
+14188,Travel_Impact_KY-5.pdf,"Kentucky, KY-5, Economic Impact Map",current
+14189,Travel_Impact_KY-6.pdf,"Kentucky, KY-6, Economic Impact Map",current
+14190,Travel_Impact_KY.pdf,"Kentucky, KY, Economic Impact Map",current
+14191,Travel_Impact_LA-1.pdf,"Louisiana, LA-1, Economic Impact Map",current
+14192,Travel_Impact_LA-2.pdf,"Louisiana, LA-2, Economic Impact Map",current
+14193,Travel_Impact_LA-3.pdf,"Louisiana, LA-3, Economic Impact Map",current
+14194,Travel_Impact_LA-4.pdf,"Louisiana, LA-4, Economic Impact Map",current
+14195,Travel_Impact_LA-5.pdf,"Louisiana, LA-5, Economic Impact Map",current
+14196,Travel_Impact_LA-6.pdf,"Louisiana, LA-6, Economic Impact Map",current
+14197,Travel_Impact_LA.pdf,"Louisiana, LA, Economic Impact Map",current
+14198,Travel_Impact_MA-1.pdf,"Massachusetts, MA-1, Economic Impact Map",current
+14199,Travel_Impact_MA-2.pdf,"Massachusetts, MA-2, Economic Impact Map",current
+14200,Travel_Impact_MA-3.pdf,"Massachusetts, MA-3, Economic Impact Map",current
+14201,Travel_Impact_MA-4.pdf,"Massachusetts, MA-4, Economic Impact Map",current
+14202,Travel_Impact_MA-5.pdf,"Massachusetts, MA-5, Economic Impact Map",current
+14203,Travel_Impact_MA-6.pdf,"Massachusetts, MA-6, Economic Impact Map",current
+14204,Travel_Impact_MA-7.pdf,"Massachusetts, MA-7, Economic Impact Map",current
+14205,Travel_Impact_MA-8.pdf,"Massachusetts, MA-8, Economic Impact Map",current
+14206,Travel_Impact_MA-9.pdf,"Massachusetts, MA-9, Economic Impact Map",current
+14207,Travel_Impact_MA.pdf,"Massachusetts, MA, Economic Impact Map",current
+14208,Travel_Impact_MD-1.pdf,"Maryland, MD-1, Economic Impact Map",current
+14209,Travel_Impact_MD-2.pdf,"Maryland, MD-2, Economic Impact Map",current
+14210,Travel_Impact_MD-3.pdf,"Maryland, MD-3, Economic Impact Map",current
+14211,Travel_Impact_MD-4.pdf,"Maryland, MD-4, Economic Impact Map",current
+14212,Travel_Impact_MD-5.pdf,"Maryland, MD-5, Economic Impact Map",current
+14213,Travel_Impact_MD-6.pdf,"Maryland, MD-6, Economic Impact Map",current
+14214,Travel_Impact_MD-7.pdf,"Maryland, MD-7, Economic Impact Map",current
+14215,Travel_Impact_MD-8.pdf,"Maryland, MD-8, Economic Impact Map",current
+14216,Travel_Impact_MD.pdf,"Maryland, MD, Economic Impact Map",current
+14217,Travel_Impact_ME-1.pdf,"Maine, ME-1, Economic Impact Map",current
+14218,Travel_Impact_ME-2.pdf,"Maine, ME-2, Economic Impact Map",current
+14219,Travel_Impact_ME.pdf,"Maine, ME, Economic Impact Map",current
+14220,Travel_Impact_MI-1.pdf,"Michigan, MI-1, Economic Impact Map",current
+14221,Travel_Impact_MI-2.pdf,"Michigan, MI-2, Economic Impact Map",current
+14222,Travel_Impact_MI-3.pdf,"Michigan, MI-3, Economic Impact Map",current
+14223,Travel_Impact_MI-4.pdf,"Michigan, MI-4, Economic Impact Map",current
+14224,Travel_Impact_MI-5.pdf,"Michigan, MI-5, Economic Impact Map",current
+14225,Travel_Impact_MI-6.pdf,"Michigan, MI-6, Economic Impact Map",current
+14226,Travel_Impact_MI-7.pdf,"Michigan, MI-7, Economic Impact Map",current
+14227,Travel_Impact_MI-8.pdf,"Michigan, MI-8, Economic Impact Map",current
+14228,Travel_Impact_MI-9.pdf,"Michigan, MI-9, Economic Impact Map",current
+14229,Travel_Impact_MI-10.pdf,"Michigan, MI-10, Economic Impact Map",current
+14230,Travel_Impact_MI-11.pdf,"Michigan, MI-11, Economic Impact Map",current
+14231,Travel_Impact_MI-12.pdf,"Michigan, MI-12, Economic Impact Map",current
+14232,Travel_Impact_MI-13.pdf,"Michigan, MI-13, Economic Impact Map",current
+14233,Travel_Impact_MI-14.pdf,"Michigan, MI-14, Economic Impact Map",current
+14234,Travel_Impact_MI.pdf,"Michigan, MI, Economic Impact Map",current
+14235,Travel_Impact_MN-1.pdf,"Minnesota, MN-1, Economic Impact Map",current
+14236,Travel_Impact_MN-2.pdf,"Minnesota, MN-2, Economic Impact Map",current
+14237,Travel_Impact_MN-3.pdf,"Minnesota, MN-3, Economic Impact Map",current
+14238,Travel_Impact_MN-4.pdf,"Minnesota, MN-4, Economic Impact Map",current
+14239,Travel_Impact_MN-5.pdf,"Minnesota, MN-5, Economic Impact Map",current
+14240,Travel_Impact_MN-6.pdf,"Minnesota, MN-6, Economic Impact Map",current
+14241,Travel_Impact_MN-7.pdf,"Minnesota, MN-7, Economic Impact Map",current
+14242,Travel_Impact_MN-8.pdf,"Minnesota, MN-8, Economic Impact Map",current
+14243,Travel_Impact_MN.pdf,"Minnesota, MN, Economic Impact Map",current
+14244,Travel_Impact_MO-1.pdf,"Missouri, MO-1, Economic Impact Map",current
+14245,Travel_Impact_MO-2.pdf,"Missouri, MO-2, Economic Impact Map",current
+14246,Travel_Impact_MO-3.pdf,"Missouri, MO-3, Economic Impact Map",current
+14247,Travel_Impact_MO-4.pdf,"Missouri, MO-4, Economic Impact Map",current
+14248,Travel_Impact_MO-5.pdf,"Missouri, MO-5, Economic Impact Map",current
+14249,Travel_Impact_MO-6.pdf,"Missouri, MO-6, Economic Impact Map",current
+14250,Travel_Impact_MO-7.pdf,"Missouri, MO-7, Economic Impact Map",current
+14251,Travel_Impact_MO-8.pdf,"Missouri, MO-8, Economic Impact Map",current
+14252,Travel_Impact_MO.pdf,"Missouri, MO, Economic Impact Map",current
+14253,Travel_Impact_MS-1.pdf,"Mississippi, MS-1, Economic Impact Map",current
+14254,Travel_Impact_MS-2.pdf,"Mississippi, MS-2, Economic Impact Map",current
+14255,Travel_Impact_MS-3.pdf,"Mississippi, MS-3, Economic Impact Map",current
+14256,Travel_Impact_MS-4.pdf,"Mississippi, MS-4, Economic Impact Map",current
+14257,Travel_Impact_MS.pdf,"Mississippi, MS, Economic Impact Map",current
+14258,Travel_Impact_MT-0.pdf,"Montana, MT-1, Economic Impact Map",current
+14259,Travel_Impact_MT.pdf,"Montana, MT, Economic Impact Map",current
+14260,Travel_Impact_NC-1.pdf,"North Carolina, NC-1, Economic Impact Map",current
+14261,Travel_Impact_NC-2.pdf,"North Carolina, NC-2, Economic Impact Map",current
+14262,Travel_Impact_NC-3.pdf,"North Carolina, NC-3, Economic Impact Map",current
+14263,Travel_Impact_NC-4.pdf,"North Carolina, NC-4, Economic Impact Map",current
+14264,Travel_Impact_NC-5.pdf,"North Carolina, NC-5, Economic Impact Map",current
+14265,Travel_Impact_NC-6.pdf,"North Carolina, NC-6, Economic Impact Map",current
+14266,Travel_Impact_NC-7.pdf,"North Carolina, NC-7, Economic Impact Map",current
+14267,Travel_Impact_NC-8.pdf,"North Carolina, NC-8, Economic Impact Map",current
+14268,Travel_Impact_NC-9.pdf,"North Carolina, NC-9, Economic Impact Map",current
+14269,Travel_Impact_NC-10.pdf,"North Carolina, NC-10, Economic Impact Map",current
+14270,Travel_Impact_NC-11.pdf,"North Carolina, NC-11, Economic Impact Map",current
+14271,Travel_Impact_NC-12.pdf,"North Carolina, NC-12, Economic Impact Map",current
+14272,Travel_Impact_NC-13.pdf,"North Carolina, NC-13, Economic Impact Map",current
+14273,Travel_Impact_NC.pdf,"North Carolina, NC, Economic Impact Map",current
+14274,Travel_Impact_ND-0.pdf,"North Dakota, ND-1, Economic Impact Map",current
+14275,Travel_Impact_ND.pdf,"North Dakota, ND, Economic Impact Map",current
+14276,Travel_Impact_NE-1.pdf,"Nebraska, NE-1, Economic Impact Map",current
+14277,Travel_Impact_NE-2.pdf,"Nebraska, NE-2, Economic Impact Map",current
+14278,Travel_Impact_NE-3.pdf,"Nebraska, NE-3, Economic Impact Map",current
+14279,Travel_Impact_NE.pdf,"Nebraska, NE, Economic Impact Map",current
+14280,Travel_Impact_NH-1.pdf,"New Hampshire, NH-1, Economic Impact Map",current
+14281,Travel_Impact_NH-2.pdf,"New Hampshire, NH-2, Economic Impact Map",current
+14282,Travel_Impact_NH.pdf,"New Hampshire, NH, Economic Impact Map",current
+14283,Travel_Impact_NJ-1.pdf,"New Jersey, NJ-1, Economic Impact Map",current
+14284,Travel_Impact_NJ-2.pdf,"New Jersey, NJ-2, Economic Impact Map",current
+14285,Travel_Impact_NJ-3.pdf,"New Jersey, NJ-3, Economic Impact Map",current
+14286,Travel_Impact_NJ-4.pdf,"New Jersey, NJ-4, Economic Impact Map",current
+14287,Travel_Impact_NJ-5.pdf,"New Jersey, NJ-5, Economic Impact Map",current
+14288,Travel_Impact_NJ-6.pdf,"New Jersey, NJ-6, Economic Impact Map",current
+14289,Travel_Impact_NJ-7.pdf,"New Jersey, NJ-7, Economic Impact Map",current
+14290,Travel_Impact_NJ-8.pdf,"New Jersey, NJ-8, Economic Impact Map",current
+14291,Travel_Impact_NJ-9.pdf,"New Jersey, NJ-9, Economic Impact Map",current
+14292,Travel_Impact_NJ-10.pdf,"New Jersey, NJ-10, Economic Impact Map",current
+14293,Travel_Impact_NJ-11.pdf,"New Jersey, NJ-11, Economic Impact Map",current
+14294,Travel_Impact_NJ-12.pdf,"New Jersey, NJ-12, Economic Impact Map",current
+14295,Travel_Impact_NJ.pdf,"New Jersey, NJ, Economic Impact Map",current
+14296,Travel_Impact_NM-1.pdf,"New Mexico, NM-1, Economic Impact Map",current
+14297,Travel_Impact_NM-2.pdf,"New Mexico, NM-2, Economic Impact Map",current
+14298,Travel_Impact_NM-3.pdf,"New Mexico, NM-3, Economic Impact Map",current
+14299,Travel_Impact_NM.pdf,"New Mexico, NM, Economic Impact Map",current
+14300,Travel_Impact_NV-1.pdf,"Nevada, NV-1, Economic Impact Map",current
+14301,Travel_Impact_NV-2.pdf,"Nevada, NV-2, Economic Impact Map",current
+14302,Travel_Impact_NV-3.pdf,"Nevada, NV-3, Economic Impact Map",current
+14303,Travel_Impact_NV-4.pdf,"Nevada, NV-4, Economic Impact Map",current
+14304,Travel_Impact_NV.pdf,"Nevada, NV, Economic Impact Map",current
+14305,Travel_Impact_NY-1.pdf,"New York, NY-1, Economic Impact Map",current
+14306,Travel_Impact_NY-2.pdf,"New York, NY-2, Economic Impact Map",current
+14307,Travel_Impact_NY-3.pdf,"New York, NY-3, Economic Impact Map",current
+14308,Travel_Impact_NY-4.pdf,"New York, NY-4, Economic Impact Map",current
+14309,Travel_Impact_NY-5.pdf,"New York, NY-5, Economic Impact Map",current
+14310,Travel_Impact_NY-6.pdf,"New York, NY-6, Economic Impact Map",current
+14311,Travel_Impact_NY-7.pdf,"New York, NY-7, Economic Impact Map",current
+14312,Travel_Impact_NY-8.pdf,"New York, NY-8, Economic Impact Map",current
+14313,Travel_Impact_NY-9.pdf,"New York, NY-9, Economic Impact Map",current
+14314,Travel_Impact_NY-10.pdf,"New York, NY-10, Economic Impact Map",current
+14315,Travel_Impact_NY-11.pdf,"New York, NY-11, Economic Impact Map",current
+14316,Travel_Impact_NY-12.pdf,"New York, NY-12, Economic Impact Map",current
+14317,Travel_Impact_NY-13.pdf,"New York, NY-13, Economic Impact Map",current
+14318,Travel_Impact_NY-14.pdf,"New York, NY-14, Economic Impact Map",current
+14319,Travel_Impact_NY-15.pdf,"New York, NY-15, Economic Impact Map",current
+14320,Travel_Impact_NY-16.pdf,"New York, NY-16, Economic Impact Map",current
+14321,Travel_Impact_NY-17.pdf,"New York, NY-17, Economic Impact Map",current
+14322,Travel_Impact_NY-18.pdf,"New York, NY-18, Economic Impact Map",current
+14323,Travel_Impact_NY-19.pdf,"New York, NY-19, Economic Impact Map",current
+14324,Travel_Impact_NY-20.pdf,"New York, NY-20, Economic Impact Map",current
+14325,Travel_Impact_NY-21.pdf,"New York, NY-21, Economic Impact Map",current
+14326,Travel_Impact_NY-22.pdf,"New York, NY-22, Economic Impact Map",current
+14327,Travel_Impact_NY-23.pdf,"New York, NY-23, Economic Impact Map",current
+14328,Travel_Impact_NY-24.pdf,"New York, NY-24, Economic Impact Map",current
+14329,Travel_Impact_NY-25.pdf,"New York, NY-25, Economic Impact Map",current
+14330,Travel_Impact_NY-26.pdf,"New York, NY-26, Economic Impact Map",current
+14331,Travel_Impact_NY-27.pdf,"New York, NY-27, Economic Impact Map",current
+14332,Travel_Impact_NY.pdf,"New York, NY, Economic Impact Map",current
+14333,Travel_Impact_OH-1.pdf,"Ohio, OH-1, Economic Impact Map",current
+14334,Travel_Impact_OH-2.pdf,"Ohio, OH-2, Economic Impact Map",current
+14335,Travel_Impact_OH-3.pdf,"Ohio, OH-3, Economic Impact Map",current
+14336,Travel_Impact_OH-4.pdf,"Ohio, OH-4, Economic Impact Map",current
+14337,Travel_Impact_OH-5.pdf,"Ohio, OH-5, Economic Impact Map",current
+14338,Travel_Impact_OH-6.pdf,"Ohio, OH-6, Economic Impact Map",current
+14339,Travel_Impact_OH-7.pdf,"Ohio, OH-7, Economic Impact Map",current
+14340,Travel_Impact_OH-8.pdf,"Ohio, OH-8, Economic Impact Map",current
+14341,Travel_Impact_OH-9.pdf,"Ohio, OH-9, Economic Impact Map",current
+14342,Travel_Impact_OH-10.pdf,"Ohio, OH-10, Economic Impact Map",current
+14343,Travel_Impact_OH-11.pdf,"Ohio, OH-11, Economic Impact Map",current
+14344,Travel_Impact_OH-12.pdf,"Ohio, OH-12, Economic Impact Map",current
+14345,Travel_Impact_OH-13.pdf,"Ohio, OH-13, Economic Impact Map",current
+14346,Travel_Impact_OH-14.pdf,"Ohio, OH-14, Economic Impact Map",current
+14347,Travel_Impact_OH-15.pdf,"Ohio, OH-15, Economic Impact Map",current
+14348,Travel_Impact_OH-16.pdf,"Ohio, OH-16, Economic Impact Map",current
+14349,Travel_Impact_OH.pdf,"Ohio, OH, Economic Impact Map",current
+14350,Travel_Impact_OK-1.pdf,"Oklahoma, OK-1, Economic Impact Map",current
+14351,Travel_Impact_OK-2.pdf,"Oklahoma, OK-2, Economic Impact Map",current
+14352,Travel_Impact_OK-3.pdf,"Oklahoma, OK-3, Economic Impact Map",current
+14353,Travel_Impact_OK-4.pdf,"Oklahoma, OK-4, Economic Impact Map",current
+14354,Travel_Impact_OK-5.pdf,"Oklahoma, OK-5, Economic Impact Map",current
+14355,Travel_Impact_OK.pdf,"Oklahoma, OK, Economic Impact Map",current
+14356,Travel_Impact_OR-1.pdf,"Oregon, OR-1, Economic Impact Map",current
+14357,Travel_Impact_OR-2.pdf,"Oregon, OR-2, Economic Impact Map",current
+14358,Travel_Impact_OR-3.pdf,"Oregon, OR-3, Economic Impact Map",current
+14359,Travel_Impact_OR-4.pdf,"Oregon, OR-4, Economic Impact Map",current
+14360,Travel_Impact_OR-5.pdf,"Oregon, OR-5, Economic Impact Map",current
+14361,Travel_Impact_OR.pdf,"Oregon, OR, Economic Impact Map",current
+14362,Travel_Impact_PA-1.pdf,"Pennsylvania, PA-1, Economic Impact Map",current
+14363,Travel_Impact_PA-2.pdf,"Pennsylvania, PA-2, Economic Impact Map",current
+14364,Travel_Impact_PA-3.pdf,"Pennsylvania, PA-3, Economic Impact Map",current
+14365,Travel_Impact_PA-4.pdf,"Pennsylvania, PA-4, Economic Impact Map",current
+14366,Travel_Impact_PA-5.pdf,"Pennsylvania, PA-5, Economic Impact Map",current
+14367,Travel_Impact_PA-6.pdf,"Pennsylvania, PA-6, Economic Impact Map",current
+14368,Travel_Impact_PA-7.pdf,"Pennsylvania, PA-7, Economic Impact Map",current
+14369,Travel_Impact_PA-8.pdf,"Pennsylvania, PA-8, Economic Impact Map",current
+14370,Travel_Impact_PA-9.pdf,"Pennsylvania, PA-9, Economic Impact Map",current
+14371,Travel_Impact_PA-10.pdf,"Pennsylvania, PA-10, Economic Impact Map",current
+14372,Travel_Impact_PA-11.pdf,"Pennsylvania, PA-11, Economic Impact Map",current
+14373,Travel_Impact_PA-12.pdf,"Pennsylvania, PA-12, Economic Impact Map",current
+14374,Travel_Impact_PA-13.pdf,"Pennsylvania, PA-13, Economic Impact Map",current
+14375,Travel_Impact_PA-14.pdf,"Pennsylvania, PA-14, Economic Impact Map",current
+14376,Travel_Impact_PA-15.pdf,"Pennsylvania, PA-15, Economic Impact Map",current
+14377,Travel_Impact_PA-16.pdf,"Pennsylvania, PA-16, Economic Impact Map",current
+14378,Travel_Impact_PA-17.pdf,"Pennsylvania, PA-17, Economic Impact Map",current
+14379,Travel_Impact_PA-18.pdf,"Pennsylvania, PA-18, Economic Impact Map",current
+14380,Travel_Impact_PA.pdf,"Pennsylvania, PA, Economic Impact Map",current
+14381,Travel_Impact_RI-1.pdf,"Rhode Island, RI-1, Economic Impact Map",current
+14382,Travel_Impact_RI-2.pdf,"Rhode Island, RI-2, Economic Impact Map",current
+14383,Travel_Impact_RI.pdf,"Rhode Island, RI, Economic Impact Map",current
+14384,Travel_Impact_SC-1.pdf,"South Carolina, SC-1, Economic Impact Map",current
+14385,Travel_Impact_SC-2.pdf,"South Carolina, SC-2, Economic Impact Map",current
+14386,Travel_Impact_SC-3.pdf,"South Carolina, SC-3, Economic Impact Map",current
+14387,Travel_Impact_SC-4.pdf,"South Carolina, SC-4, Economic Impact Map",current
+14388,Travel_Impact_SC-5.pdf,"South Carolina, SC-5, Economic Impact Map",current
+14389,Travel_Impact_SC-6.pdf,"South Carolina, SC-6, Economic Impact Map",current
+14390,Travel_Impact_SC-7.pdf,"South Carolina, SC-7, Economic Impact Map",current
+14391,Travel_Impact_SC.pdf,"South Carolina, SC, Economic Impact Map",current
+14392,Travel_Impact_SD-0.pdf,"South Dakota, SD-1, Economic Impact Map",current
+14393,Travel_Impact_SD.pdf,"South Dakota, SD, Economic Impact Map",current
+14394,Travel_Impact_TN-1.pdf,"Tennessee, TN-1, Economic Impact Map",current
+14395,Travel_Impact_TN-2.pdf,"Tennessee, TN-2, Economic Impact Map",current
+14396,Travel_Impact_TN-3.pdf,"Tennessee, TN-3, Economic Impact Map",current
+14397,Travel_Impact_TN-4.pdf,"Tennessee, TN-4, Economic Impact Map",current
+14398,Travel_Impact_TN-5.pdf,"Tennessee, TN-5, Economic Impact Map",current
+14399,Travel_Impact_TN-6.pdf,"Tennessee, TN-6, Economic Impact Map",current
+14400,Travel_Impact_TN-7.pdf,"Tennessee, TN-7, Economic Impact Map",current
+14401,Travel_Impact_TN-8.pdf,"Tennessee, TN-8, Economic Impact Map",current
+14402,Travel_Impact_TN-9.pdf,"Tennessee, TN-9, Economic Impact Map",current
+14403,Travel_Impact_TN.pdf,"Tennessee, TN, Economic Impact Map",current
+14404,Travel_Impact_TX-1.pdf,"Texas, TX-1, Economic Impact Map",current
+14405,Travel_Impact_TX-2.pdf,"Texas, TX-2, Economic Impact Map",current
+14406,Travel_Impact_TX-3.pdf,"Texas, TX-3, Economic Impact Map",current
+14407,Travel_Impact_TX-4.pdf,"Texas, TX-4, Economic Impact Map",current
+14408,Travel_Impact_TX-5.pdf,"Texas, TX-5, Economic Impact Map",current
+14409,Travel_Impact_TX-6.pdf,"Texas, TX-6, Economic Impact Map",current
+14410,Travel_Impact_TX-7.pdf,"Texas, TX-7, Economic Impact Map",current
+14411,Travel_Impact_TX-8.pdf,"Texas, TX-8, Economic Impact Map",current
+14412,Travel_Impact_TX-9.pdf,"Texas, TX-9, Economic Impact Map",current
+14413,Travel_Impact_TX-10.pdf,"Texas, TX-10, Economic Impact Map",current
+14414,Travel_Impact_TX-11.pdf,"Texas, TX-11, Economic Impact Map",current
+14415,Travel_Impact_TX-12.pdf,"Texas, TX-12, Economic Impact Map",current
+14416,Travel_Impact_TX-13.pdf,"Texas, TX-13, Economic Impact Map",current
+14417,Travel_Impact_TX-14.pdf,"Texas, TX-14, Economic Impact Map",current
+14418,Travel_Impact_TX-15.pdf,"Texas, TX-15, Economic Impact Map",current
+14419,Travel_Impact_TX-16.pdf,"Texas, TX-16, Economic Impact Map",current
+14420,Travel_Impact_TX-17.pdf,"Texas, TX-17, Economic Impact Map",current
+14421,Travel_Impact_TX-18.pdf,"Texas, TX-18, Economic Impact Map",current
+14422,Travel_Impact_TX-19.pdf,"Texas, TX-19, Economic Impact Map",current
+14423,Travel_Impact_TX-20.pdf,"Texas, TX-20, Economic Impact Map",current
+14424,Travel_Impact_TX-21.pdf,"Texas, TX-21, Economic Impact Map",current
+14425,Travel_Impact_TX-22.pdf,"Texas, TX-22, Economic Impact Map",current
+14426,Travel_Impact_TX-23.pdf,"Texas, TX-23, Economic Impact Map",current
+14427,Travel_Impact_TX-24.pdf,"Texas, TX-24, Economic Impact Map",current
+14428,Travel_Impact_TX-25.pdf,"Texas, TX-25, Economic Impact Map",current
+14429,Travel_Impact_TX-26.pdf,"Texas, TX-26, Economic Impact Map",current
+14430,Travel_Impact_TX-27.pdf,"Texas, TX-27, Economic Impact Map",current
+14431,Travel_Impact_TX-28.pdf,"Texas, TX-28, Economic Impact Map",current
+14432,Travel_Impact_TX-29.pdf,"Texas, TX-29, Economic Impact Map",current
+14433,Travel_Impact_TX-30.pdf,"Texas, TX-30, Economic Impact Map",current
+14434,Travel_Impact_TX-31.pdf,"Texas, TX-31, Economic Impact Map",current
+14435,Travel_Impact_TX-32.pdf,"Texas, TX-32, Economic Impact Map",current
+14436,Travel_Impact_TX-33.pdf,"Texas, TX-33, Economic Impact Map",current
+14437,Travel_Impact_TX-34.pdf,"Texas, TX-34, Economic Impact Map",current
+14438,Travel_Impact_TX-35.pdf,"Texas, TX-35, Economic Impact Map",current
+14439,Travel_Impact_TX-36.pdf,"Texas, TX-36, Economic Impact Map",current
+14440,Travel_Impact_TX.pdf,"Texas, TX, Economic Impact Map",current
+14441,Travel_Impact_UT-1.pdf,"Utah, UT-1, Economic Impact Map",current
+14442,Travel_Impact_UT-2.pdf,"Utah, UT-2, Economic Impact Map",current
+14443,Travel_Impact_UT-3.pdf,"Utah, UT-3, Economic Impact Map",current
+14444,Travel_Impact_UT-4.pdf,"Utah, UT-4, Economic Impact Map",current
+14445,Travel_Impact_UT.pdf,"Utah, UT, Economic Impact Map",current
+14446,Travel_Impact_VA-1.pdf,"Virginia, VA-1, Economic Impact Map",current
+14447,Travel_Impact_VA-2.pdf,"Virginia, VA-2, Economic Impact Map",current
+14448,Travel_Impact_VA-3.pdf,"Virginia, VA-3, Economic Impact Map",current
+14449,Travel_Impact_VA-4.pdf,"Virginia, VA-4, Economic Impact Map",current
+14450,Travel_Impact_VA-5.pdf,"Virginia, VA-5, Economic Impact Map",current
+14451,Travel_Impact_VA-6.pdf,"Virginia, VA-6, Economic Impact Map",current
+14452,Travel_Impact_VA-7.pdf,"Virginia, VA-7, Economic Impact Map",current
+14453,Travel_Impact_VA-8.pdf,"Virginia, VA-8, Economic Impact Map",current
+14454,Travel_Impact_VA-9.pdf,"Virginia, VA-9, Economic Impact Map",current
+14455,Travel_Impact_VA-10.pdf,"Virginia, VA-10, Economic Impact Map",current
+14456,Travel_Impact_VA-11.pdf,"Virginia, VA-11, Economic Impact Map",current
+14457,Travel_Impact_VA.pdf,"Virginia, VA, Economic Impact Map",current
+14458,Travel_Impact_VT-0.pdf,"Vermont, VT-1, Economic Impact Map",current
+14459,Travel_Impact_VT.pdf,"Vermont, VT, Economic Impact Map",current
+14460,Travel_Impact_WA-1.pdf,"Washington, WA-1, Economic Impact Map",current
+14461,Travel_Impact_WA-2.pdf,"Washington, WA-2, Economic Impact Map",current
+14462,Travel_Impact_WA-3.pdf,"Washington, WA-3, Economic Impact Map",current
+14463,Travel_Impact_WA-4.pdf,"Washington, WA-4, Economic Impact Map",current
+14464,Travel_Impact_WA-5.pdf,"Washington, WA-5, Economic Impact Map",current
+14465,Travel_Impact_WA-6.pdf,"Washington, WA-6, Economic Impact Map",current
+14466,Travel_Impact_WA-7.pdf,"Washington, WA-7, Economic Impact Map",current
+14467,Travel_Impact_WA-8.pdf,"Washington, WA-8, Economic Impact Map",current
+14468,Travel_Impact_WA-9.pdf,"Washington, WA-9, Economic Impact Map",current
+14469,Travel_Impact_WA-10.pdf,"Washington, WA-10, Economic Impact Map",current
+14470,Travel_Impact_WA.pdf,"Washington, WA, Economic Impact Map",current
+14471,Travel_Impact_WI-1.pdf,"Wisconsin, WI-1, Economic Impact Map",current
+14472,Travel_Impact_WI-2.pdf,"Wisconsin, WI-2, Economic Impact Map",current
+14473,Travel_Impact_WI-3.pdf,"Wisconsin, WI-3, Economic Impact Map",current
+14474,Travel_Impact_WI-4.pdf,"Wisconsin, WI-4, Economic Impact Map",current
+14475,Travel_Impact_WI-5.pdf,"Wisconsin, WI-5, Economic Impact Map",current
+14476,Travel_Impact_WI-6.pdf,"Wisconsin, WI-6, Economic Impact Map",current
+14477,Travel_Impact_WI-7.pdf,"Wisconsin, WI-7, Economic Impact Map",current
+14478,Travel_Impact_WI-8.pdf,"Wisconsin, WI-8, Economic Impact Map",current
+14479,Travel_Impact_WI.pdf,"Wisconsin, WI, Economic Impact Map",current
+14480,Travel_Impact_WV-1.pdf,"West Virginia, WV-1, Economic Impact Map",current
+14481,Travel_Impact_WV-2.pdf,"West Virginia, WV-2, Economic Impact Map",current
+14482,Travel_Impact_WV-3.pdf,"West Virginia, WV-3, Economic Impact Map",current
+14483,Travel_Impact_WV.pdf,"West Virginia, WV, Economic Impact Map",current
+14484,Travel_Impact_WY-0.pdf,"Wyoming, WY-1, Economic Impact Map",current
+14485,Travel_Impact_WY.pdf,"Wyoming, WY, Economic Impact Map",current
+14486,Travel_Impact_DC-0.pdf,"District of Columbia, DC-0, Economic Impact Map",current
